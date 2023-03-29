@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **rgitonga07@gmail.com**
 
-- ⚡ Fun fact **Taking Just plain water instead of Coffee >>>> **
+- ⚡ Fun fact **Taking Just plain water instead of Coffee >>>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
