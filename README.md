@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Robert</h1>
-<h3 align="center">A full stack developer and Cloud Enthusiast</h3>
+<h3 align="center">A full stack developer and Cloud Learner</h3>
 
 <p align="left"> <a href="https://twitter.com/rgitongarobert" target="blank"><img src="https://img.shields.io/twitter/follow/rgitongarobert?logo=twitter&style=for-the-badge" alt="rgitongarobert" /></a> </p>
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **rgitonga07@gmail.com**
 
-- ⚡ Fun fact **Just plain water >>>> Coffee**
+- ⚡ Fun fact **Taking Just plain water instead of Coffee >>>> **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
