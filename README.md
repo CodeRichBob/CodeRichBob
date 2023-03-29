@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Robert</h1>
-<h3 align="center">A full stack developer and Cloud Learner</h3>
+<h3 align="center">A Full Stack developer and Cloud Learner</h3>
 
 <p align="left"> <a href="https://twitter.com/rgitongarobert" target="blank"><img src="https://img.shields.io/twitter/follow/rgitongarobert?logo=twitter&style=for-the-badge" alt="rgitongarobert" /></a> </p>
 
