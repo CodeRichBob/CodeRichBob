@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **rgitonga07@gmail.com**
 
-- ⚡ Fun fact **That Jesus was born in a manger doesn't make him a cow **
+- ⚡ Fun fact **That Jesus was born in a manger doesn't make him a cow**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
