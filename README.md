@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [AWS Cloud Project](https://github.com/CodeRichBob/aws-bootcamp-cruddur-2023)
 
-- 🌱 I’m currently learning **AWS, Java**
+- 🌱 I’m currently learning **AWS, React**
 
 - 👯 I’m looking to collaborate on **Interesting Open Source Projects**
 
